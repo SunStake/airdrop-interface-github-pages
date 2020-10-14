@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9e02f87.chunk.css",
+    "main.js": "/static/js/main.bc26737c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.5a8ff5bc.js",
+    "static/js/2.1cac5cb8.chunk.js": "/static/js/2.1cac5cb8.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.e01f76f24962d261f7d33bf5c4d64677.js": "/precache-manifest.e01f76f24962d261f7d33bf5c4d64677.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.1cac5cb8.chunk.js.LICENSE.txt": "/static/js/2.1cac5cb8.chunk.js.LICENSE.txt",
+    "static/media/close.bbfe38db.svg": "/static/media/close.bbfe38db.svg",
+    "static/media/copy.e80d227d.svg": "/static/media/copy.e80d227d.svg",
+    "static/media/github.ddc25012.svg": "/static/media/github.ddc25012.svg",
+    "static/media/hamburger.c488311e.svg": "/static/media/hamburger.c488311e.svg",
+    "static/media/logo-header.png": "/static/media/logo-header.204c38fd.png",
+    "static/media/medium.02a226dd.svg": "/static/media/medium.02a226dd.svg",
+    "static/media/switch.de3f1564.svg": "/static/media/switch.de3f1564.svg",
+    "static/media/telegram.b4971d60.svg": "/static/media/telegram.b4971d60.svg",
+    "static/media/twitter.76c75acc.svg": "/static/media/twitter.76c75acc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a8ff5bc.js",
+    "static/js/2.1cac5cb8.chunk.js",
+    "static/css/main.c9e02f87.chunk.css",
+    "static/js/main.bc26737c.chunk.js"
+  ]
+}
